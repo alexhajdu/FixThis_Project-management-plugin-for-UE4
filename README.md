@@ -1,6 +1,6 @@
 # Fix this!
 
-![fixthis](/alexhajdu/ue4_plugins_documentation/blob/master/Resources/ft2.png)
+![fixthis](/alexhajdu/fix_this/blob/master/Resources/ft2.png)
 
 ### About 
 
@@ -14,7 +14,7 @@ Click on the object, write a comment and create. The note will be automatically 
 G - toggle show/hide of notes in the level
 
 ## See it in action
-[![youtube tutorial](/alexhajdu/ue4_plugins_documentation/blob/master/Resources/ft_youtube.png)](https://youtu.be/5OI5-ibnpgU 
+[![youtube tutorial](/alexhajdu/fix_this/blob/master/Resources/ft_youtube.png)](https://youtu.be/5OI5-ibnpgU 
 "YouTube")
 
 ## Licenses
