@@ -17,6 +17,7 @@ G - toggle show/hide of notes in the level
 [![youtube tutorial](/Resources/ft_youtube.png)](https://youtu.be/5OI5-ibnpgU 
 "YouTube")
 
-## Licenses
+## Credits
+Focus and Complete icons made by made by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from www.flaticon.com 
 
 
