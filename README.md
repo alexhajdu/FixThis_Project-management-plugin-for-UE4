@@ -23,11 +23,9 @@ G - toggle show/hide of notes in the level
 [![youtube tutorial](/Resources/ft_youtube.png)](https://youtu.be/5OI5-ibnpgU 
 "YouTube")
 
-## Issues and troubleshooting
+## Support
 
-If you have any issues or questions please log them in the [issues](https://github.com/alexhajdu/fix_this/issues) tab. 
-
-You can contact me directly at alexhajdu[at]gmail.com
+If you have any issues or questions please log them in the [issues](https://github.com/alexhajdu/fix_this/issues) tab or hit me up on twitter [@alexhajdu](https://twitter.com/alexhajdu)
 
 ## Credits
 Focus and Complete icons made by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from www.flaticon.com 
