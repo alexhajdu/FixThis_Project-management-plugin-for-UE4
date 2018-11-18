@@ -6,6 +6,10 @@
 
 Fix this is a useful editor tool created for everyone who needs to leave text notes or comments in the level for the other team members.
 
+### How to buy
+
+Unreal market place
+
 ### Workflow
 
 Click on the object, write a comment and create. The note will be automatically aligned to that object.
