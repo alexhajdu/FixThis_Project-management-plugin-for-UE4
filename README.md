@@ -8,7 +8,7 @@ Fix this is a useful editor tool created for everyone who needs to leave text no
 
 ### How to buy
 
-Unreal market place
+Unreal market place ( *todo* )
 
 ### Workflow
 
@@ -26,6 +26,6 @@ G - toggle show/hide of notes in the level
 If you have any issues or questions please log them in the [issues](https://github.com/alexhajdu/fix_this/issues) tab. You can contact me directly at alexhajdu[at]gmail.com
 
 ## Credits
-Focus and Complete icons made by made by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from www.flaticon.com 
+Focus and Complete icons made by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from www.flaticon.com 
 
 
