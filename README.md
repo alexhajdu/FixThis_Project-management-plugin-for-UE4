@@ -8,7 +8,7 @@ Fix this is a useful editor tool created for everyone who needs to leave text no
 
 ### How to buy
 
-Unreal market place - **Plugin is waiting for approval**
+Unreal market place - [Fix This! - Download](https://www.unrealengine.com/marketplace/fix-this-todo-system-for-the-level-editor)
 
 ### Workflow
 
