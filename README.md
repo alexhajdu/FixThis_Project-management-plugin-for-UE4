@@ -10,7 +10,7 @@ Fix this is a useful editor tool created for everyone who needs to leave text no
 
 Unreal market place - [Fix This! - Download](https://www.unrealengine.com/marketplace/fix-this-todo-system-for-the-level-editor)
 
-### Instal
+### Install
 
 It's prefered to install the plugin as a project plugin ( not as a engine plugin ) into the folder `[MyProjet]/Plugins/`
 
