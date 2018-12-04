@@ -6,9 +6,13 @@
 
 Fix this is a useful editor tool created for everyone who needs to leave text notes or todos in the level for the team members.
 
-### How to buy
+### Download
 
 Unreal market place - [Fix This! - Download](https://www.unrealengine.com/marketplace/fix-this-todo-system-for-the-level-editor)
+
+### Instal
+
+It's prefered to install the plugin as a project plugin ( not as a engine plugin ) into the folder `[MyProjet]/Plugins/`
 
 ### Workflow
 
