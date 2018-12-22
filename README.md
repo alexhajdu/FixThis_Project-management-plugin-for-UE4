@@ -32,6 +32,5 @@ G - toggle show/hide of notes in the level
 If you have any issues or questions please log them in the [issues](https://github.com/alexhajdu/fix_this/issues) tab or hit me up on twitter [@alexhajdu](https://twitter.com/alexhajdu)
 
 ## Credits
-Focus and Complete icons made by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) from www.flaticon.com 
-
+Icons made by [Dave Gandy](http://fontawesome.io/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
 
