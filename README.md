@@ -12,13 +12,26 @@ Unreal market place - [Fix This! - Download](https://www.unrealengine.com/market
 
 ### Install
 
-It's prefered to install the plugin as a project plugin ( not as a engine plugin ) into the folder `[MyProjet]/Plugins/`
+It's preferred to install the plugin as a project plugin ( not as an engine plugin ) into the folder `[MyProjet]/Plugins/`
 
 ### Workflow
 
-Click on the object in the scene, write a comment, choose priority and click *Create Task*. The note will be automatically aligned to the selected object. 
+**Level**
+Click on the object in the scene, write a comment, choose priority and click *Create Task*. The note will be automatically aligned with the selected object. By default, a newly created note will stay selected, this can be disabled in the config section.
 
-If no objecect is selected, a note will be created in front of the camera.
+If no object is selected, a note will be created in front of the camera. 
+
+**Blueprints**
+
+Open the config section and set paths where the plugin should look for your blueprints assets. The default is `/Game/` which is the root folder but you should customize this according to your project. 
+
+There are 2 ways of how to convert your comment into TODO. Firstly, every comment that starts with *TODO:* will be converted. e.g. `TODO: Fix this` You can define your own search word if needed in the config section. 
+
+The second option how to convert comment to a task is to check *Color Bubble* in comment *Details* (see picture). In this case, you don't need to start your comments with the search word.
+
+![fixthis](/Resources/color_bubble.png)
+
+> Note: Search options will be improved in the next release. I'm working on a more user-friendly way of selecting folders. Also, I'm not providing recursiveness because this should be an expensive operation - speaking of big projects.
 
 ### Shortcuts
 G - toggle show/hide of notes in the level
