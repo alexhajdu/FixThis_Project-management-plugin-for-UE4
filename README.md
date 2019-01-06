@@ -40,7 +40,11 @@ There are 2 ways of how to convert your comment into TODO.
 G - toggle show/hide of notes in the level
 
 ## See it in action
-[![youtube tutorial](/Resources/ft_youtube.png)](https://youtu.be/5OI5-ibnpgU 
+
+[![youtube how to convert blueprints to tasks](/Resources/ft_yt_bp.png)](https://youtu.be/YHrOzj2uNow 
+"YouTube")
+
+[![youtube how to create tasks in the level](/Resources/ft_youtube.png)](https://youtu.be/5OI5-ibnpgU 
 "YouTube")
 
 ## Support
