@@ -1,4 +1,4 @@
-# Fix this! - Todo system for the level editor ( ue4 plugin )
+# Fix this! - The advanced TODO system for C++ and Blueprints projects
 
 ![fixthis](/Resources/ft2.png)
 
