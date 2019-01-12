@@ -4,7 +4,9 @@
 
 ### About 
 
-Fix this! is not a pesky actor in the level, rather a powerful editor plugin. Leave comments in level for your teammates, convert any comment in your blueprints to tasks and get overview about all things that needs to be done.
+Fix this! is an advanced TODO system for your Blueprint and C++ project. 
+
+Leave visual notes right in the level for your teammates. Create todos from comments and keep track of all your comments in your whole projects. Get the whole picture of what needs to done on your project.
 
 ### Download
 
