@@ -34,7 +34,7 @@ There are 2 ways of how to convert your comment into TODO.
 
 2. The second option how to convert comment to a task is to check *Color Bubble* in comment *Details* (see picture). In this case, you don't need to start your comments with the search word.
 
-![fixthis](/Resources/color_bubble.png)
+![](/Resources/color_bubble.png)
 
 > Note: Definition of search paths will be improved in the next release! I'm working on a more user-friendly way of selecting folders. Also, I'm not providing recursiveness because this should be an expensive operation - speaking of big projects.
 
