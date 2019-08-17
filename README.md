@@ -6,7 +6,7 @@
 
 Fix this! is an advanced TODO system for both Blueprint and C++ projects. 
 
-Leave visual notes right in the level for your teammates. Create todos from comments and keep track of all your comments in your whole projects. Get the whole picture of what needs to be done in your project.
+Leave visual notes right in the level for your teammates. Create todos from comments and keep track of all your comments in your whole projects. Get the whole picture of what needs to be done in your project. 
 
 # Download
 
