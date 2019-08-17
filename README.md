@@ -18,13 +18,13 @@ It's preferred to install the plugin as a project plugin ( not as an engine plug
 
 # Workflow
 
-##Level
+## Level
 
 Click on the object in the scene, write a comment, choose priority and click *Create Task*. The note will be automatically aligned with the selected object. By default, a newly created note will stay selected, this can be disabled in the config section.
 
 If no object is selected, a note will be created in front of the camera. 
 
-##Blueprints
+## Blueprints
 
 Open the config section and set explicit paths where the plugin should look for your blueprints assets. The default is `/Game/` which is the Content root folder but you should customize this according to your project. 
 
