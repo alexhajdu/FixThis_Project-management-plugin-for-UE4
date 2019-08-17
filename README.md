@@ -1,6 +1,6 @@
 # Fix this! - The advanced TODO system for C++ and Blueprints projects
 
-![fixthis](/Resources/ft2.png)
+![](/Resources/ft2.png)
 
 # About 
 
