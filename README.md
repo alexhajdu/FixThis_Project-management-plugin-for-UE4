@@ -56,7 +56,7 @@ G - toggle show/hide of notes in the level
 
 # Support
 
-If you have any issues or questions please log them here in the [issues](https://github.com/alexhajdu/fix_this/issues) tab or hit me up on twitter [@alexhajdu](https://twitter.com/alexhajdu)
+If you have any issues or questions please log them here in the [issues](https://github.com/alexhajdu/fix_this/issues) or hit me up on twitter [@alexhajdu](https://twitter.com/alexhajdu)
 
 # Credits
 Icons made by [Dave Gandy](http://fontawesome.io/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
