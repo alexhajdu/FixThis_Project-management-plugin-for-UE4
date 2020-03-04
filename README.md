@@ -4,8 +4,7 @@
 
 # NOTE FROM THE AUTHOR
 
-I'm not making support for the plugin momentary. This project gets funding from Epic Mega Grants and I'm working on the improved version. Repository is public, so you can follow my progress here.
-Please consider buying the plugin later. Apologies to you who are having some issues. Thank you for your understanding. Alex
+I'm not making support for the plugin momentary. I'm just a one guy with work and family and this is my side project. This project gets funding from Epic Mega Grants and I'm hard working on the improved, stable and feature-full version. Repository is public, so you can follow my progress here. Please consider buying the plugin later. Apologies to you who are having some issues. Thanks for understanding. Alex
 
 <p align="center">
   <img src="/Resources/epic_grants.png">
