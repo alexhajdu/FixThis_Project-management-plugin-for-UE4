@@ -57,11 +57,6 @@ G - toggle show/hide of notes in the level
 [![youtube how to create tasks in the level](/Resources/ft_youtube.png)](https://youtu.be/5OI5-ibnpgU 
 "YouTube")
 
-# Future plans
-
-- Sync with Trello ( currently in development )
-- Sync with Jira
-
 # Support
 
 If you have any issues or questions please log them here in the [issues](https://github.com/alexhajdu/fix_this/issues) or hit me up on twitter [@alexhajdu](https://twitter.com/alexhajdu)
