@@ -4,7 +4,10 @@
 
 # NOTE FROM THE AUTHOR
 
-> I'm not making support for the plugin momentary. I'm just a one guy with work and family and this is my side project. This project gets funding from Epic Mega Grants and I'm hard working on the improved, stable and feature-full version. Repository is public, so you can follow my progress here. Please consider buying the plugin later. Apologies to you who are having some issues. Thanks for understanding. Alex
+I'm just a solo developer with regular work and family. Fix this! is my side project and I'm happu it gets funding from Epic Mega Grants. I'm hard working on the improved, stable and feature-full version. Repository with the progress is public, so you can follow it right here. 
+
+**Support >**
+I'm not making full support for the plugin momentary. Please consider buying the plugin later. Apologies to you who are having some issues. Thanks for understanding. Alex
 
 ---
 
