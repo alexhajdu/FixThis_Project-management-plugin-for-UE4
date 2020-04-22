@@ -9,7 +9,8 @@ I'm just a solo developer with regular work and family. Fix this! is my side pro
 **Support >**
 I'm not making full support for the plugin momentary. Please consider buying the plugin later. Apologies to you who are having some issues. Thanks for understanding. Alex
 
-Follow my progress here: https://github.com/alexhajdu/fix_this/projects/2
+**Progress >**
+Click on *Projects* on the top bar or click here: https://github.com/alexhajdu/fix_this/projects/2
 
 ---
 
