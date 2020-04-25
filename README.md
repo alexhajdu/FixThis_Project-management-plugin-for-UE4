@@ -1,4 +1,4 @@
-# Fix this! - The advanced TODO system for C++ and Blueprints projects
+# Fix this! - Project management plugin for Unreal Engine
 
 ![](/Resources/github_header.png)
 
