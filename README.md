@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/development%20status-in%20progress-brightgreen)
+
 # Fix this! - Project management plugin for Unreal Engine
 
 ![](/Resources/github_header.png)
