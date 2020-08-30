@@ -6,7 +6,7 @@
 
 # NOTE FROM THE AUTHOR
 
-I'm ja solo developer with a job and family. Fix this! plugin is my side project and I'm happy it gets funding from Epic Mega Grants. I'm hard working on the improved, stable and feature-full version. Repository with the progress is public, so you can follow it right on github. 
+I'm a solo developer with a job and family. Fix this! plugin is my side project and I'm happy it gets funding from Epic Mega Grants. I'm hard working on the improved, stable and feature-full version. Repository with the progress is public, so you can follow it right on github. 
 
 **Support >**
 I'm not making full support for the plugin momentary. Please consider buying the plugin later. Apologies to you who are having some issues. Thanks for understanding. Alex
