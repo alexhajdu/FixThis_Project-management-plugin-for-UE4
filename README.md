@@ -8,12 +8,11 @@
 
 I'm a solo developer with a job and family. Fix this! plugin is my side project and I'm happy it gets funding from Epic Mega Grants. I'm hard working on the improved, stable and feature-full version. 
 
-I've decided to keep the project management public within this repository. This way you can easily tracke the progress and submit issues.
-
 **Support >**
 I'm not making full support for the plugin momentary. Please consider buying the plugin later. Apologies to you who are having some issues. Thanks for understanding. Alex
 
 **Progress >**
+I've decided to keep the project management public within this repository. This way you can easily tracke the progress and submit issues.
 Click on *Projects* on the top bar or click here: https://github.com/alexhajdu/fix_this/projects/2
 
 ---
