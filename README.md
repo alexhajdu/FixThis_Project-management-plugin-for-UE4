@@ -2,7 +2,7 @@
 
 # Fix this! - Project management plugin for Unreal Engine
 
-![](/Resources/github_header.png)
+![](/Resources/style_vis.png)
 
 # NOTE FROM THE AUTHOR
 
@@ -16,6 +16,8 @@ I've decided to keep the project management public within this repository. This 
 Click on *Projects* on the top bar or click here: https://github.com/alexhajdu/fix_this/projects/2
 
 ---
+
+![](/Resources/github_header.png)
 
 # About 
 
